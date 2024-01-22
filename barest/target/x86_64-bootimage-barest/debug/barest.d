@@ -1,1 +1,1 @@
-C:\Users\abdul\OneDrive\Documents\CSC305_codes\barest\target\x86_64-bootimage-barest\debug\barest: C:\Users\abdul\OneDrive\Documents\CSC305_codes\barest\src\main.rs
+C:\Users\abdul\OneDrive\Documents\Rust-Operating-System-Codes\barest\target\x86_64-bootimage-barest\debug\barest: C:\Users\abdul\OneDrive\Documents\Rust-Operating-System-Codes\barest\src\cursor.rs C:\Users\abdul\OneDrive\Documents\Rust-Operating-System-Codes\barest\src\main.rs
